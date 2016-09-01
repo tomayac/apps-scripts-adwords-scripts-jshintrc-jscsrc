@@ -17,7 +17,9 @@ $ npm install -g jscs
 
 ## Usage
 
-Run…
+Copy the two configuration files ```.jshintrc``` for JSHint and ```.jscsrc``` for JSCS
+into the same folder where your Apps Scripts or AdWords Scripts files live.
+Then run…
 
 ```bash
 $ jshint example_bad.js
