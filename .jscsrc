@@ -1,5 +1,6 @@
 {
   "preset": "google",
+  "disallowMultipleSpaces": true,
   "jsDoc": {
     "checkAnnotations": {
       "preset": "jsdoc3",
