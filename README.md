@@ -2,7 +2,7 @@
 
 A useful pair of [JSHint](http://jshint.com/docs/) and
 [JSCS](http://jscs.info/) configurations for use with Google’s
-[Apps Script](https://developers.google.com/apps-script/) and
+[Apps Scripts](https://developers.google.com/apps-script/) and
 [AdWords Scripts](https://developers.google.com/adwords/scripts/).
 
 ## Requirements
